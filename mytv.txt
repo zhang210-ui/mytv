@@ -82,7 +82,7 @@ CCTV14,http://120.48.231.201:58823/hls/14/index.m3u8
 CCTV14,http://123.175.209.28:9003/hls/15/index.m3u8
 CCTV14,http://120.48.231.201:58823/hls/24/index.m3u8
 CCTV14,http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-CCTV-15,http://198.204.228.26/live/cctv15hd.m3u8
+CCTV15,http://198.204.228.26/live/cctv15hd.m3u8
 CCTV15,http://120.48.231.201:58823/hls/15/index.m3u8
 CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
