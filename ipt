@@ -1,41 +1,4 @@
-Skip to content
-YueChan
-Live
-Repository navigation
-Code
-Issues
-Pull requests
-Agents
-Actions
-Projects
-Security and quality
-Insights
-Commit 556a300
-YueChan
-YueChan
-authored
-2 weeks ago
-Verified
-Update GNTV.m3u
-main
-1 parent 
-47ffbd1
- commit 
-556a300
-1 file changed
 
--144
-Lines changed: 0 additions & 144 deletions
-File tree
-Filter files…
-GNTV.m3u
-Search within code
- 
-‎GNTV.m3u‎
--144
-Lines changed: 0 additions & 144 deletions
-Original file line number	Diff line number	Diff line change
-@@ -1,66 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://60.10.139.113:8801/hls/1/index.m3u8
