@@ -13,8 +13,8 @@ CCTV－4 中文国际,http://192.151.150.154/live/cctv4hd.m3u8
 CCTV－4 中文国际,http://198.204.228.26/live/cctv4hd.m3u8
 CCTV－4 中文国际,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV－5 体育,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV－5 体育,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV－5+ 体育赛事,http://192.151.150.154/live/cctv5p.m3u8
+
+CCTV－5+ 体育赛事,http://192.151.150.154/live/cctv5phd.m3u8
 CCTV－5+ 体育赛事,http://198.204.228.26/live/cctv5p.m3u8
 CCTV－5+ 体育赛事,http://107.150.60.122/live/cctv5p.m3u8
 CCTV－5+ 体育赛事,http://173.208.212.130:8181/720p/cctv5p.m3u8
@@ -119,7 +119,7 @@ CCTV－17 农业农村,http://192.151.150.154/live/cctv17hd.m3u8
 吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
 吉林卫视,http://107.150.60.122/live/jlwshd.m3u8
 吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
-黑龙江卫视,http://113.9.214.47:9003/hls/19/index.m3u8
+黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 黑龙江卫视,http://120.40.39.246:352/newlive/live/hls/38/live.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
