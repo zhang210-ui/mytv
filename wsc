@@ -124,9 +124,9 @@ CCTV－17 农业农村,http://192.151.150.154/live/cctv17hd.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 贵州卫视,http://171.38.148.188:9003/hls/79/index.m3u8
-海南卫视,http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://192.151.150.154/live/hnwshd.m3u8
 海南卫视,http://113.9.214.47:9003/hls/48/index.m3u8
-三沙卫视,http://192.151.150.154/live/sswshd.m3u8
+三沙卫视,http://192.151.150.154/live/ssws.m3u8
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
 三沙卫视,http://198.204.228.26/live/ssws.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
@@ -141,7 +141,7 @@ CCTV－17 农业农村,http://192.151.150.154/live/cctv17hd.m3u8
 青海卫视,http://192.151.150.154/live/qhws.m3u8
 青海卫视,http://204.12.221.218:8181/3m1080p/qhws.m3u8
 青海卫视,http://198.204.228.26/live/qhws.m3u8
-宁夏卫视,http://192.151.150.154/live/nxwshd.m3u8
+宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
