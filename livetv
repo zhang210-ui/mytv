@@ -31,8 +31,8 @@ CCTV14,http://120.48.231.201:58823/hls/14/index.m3u8
 CCTV14,http://120.48.231.201:58823/hls/24/index.m3u8
 CCTV14,http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV15,http://120.48.231.201:58823/hls/15/index.m3u8
-CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
-CCTV17,http://192.151.150.154/live/cctv17hd.m3u8
+CCTV16,hhttp://113.90.154.189:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4
+CCTV17,http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】 【1920x1080@256kbps】
 卫视,#genre#
 浙江卫视,http://120.48.231.201:58823/hls/30/index.m3u8
 浙江卫视,http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
